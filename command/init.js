@@ -8,7 +8,8 @@ const chalk = require('chalk')
 module.exports = () => {
  co(function *() {
     // 处理用户输入
-      let tplName = yield prompt('Template name: ')
+      // let tplName = yield prompt('Template name: ')
+      let tplName = 'test'
       let projectName = yield prompt('Project name: ')
       let gitUrl
       let branch
