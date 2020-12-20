@@ -1,5 +1,5 @@
 {
-  "name": "my-cli",
+  "name": "j-cli",
   "version": "1.0.0",
   "description": "tool for init project",
   "main": "index.js",
